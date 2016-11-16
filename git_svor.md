@@ -6,11 +6,12 @@
 	mkdir		bír til nýtt directory mkdir þíðir „make directory“
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
-	git log
-	git status
-	git diff
-	git checkout
+	git clone	downloadar verkefni og history í því.
+	git log		listar út útgáfu history í branchinu
+			sem maður er að vinna í.
+	git status	LISTAR ALLAR BREYTINGAR SEM á eftir að commita
+	git diff	sínur mun á skjölum
+	git checkout	gerir ákveðiðbranch að working directory
 
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 

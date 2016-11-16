@@ -1,9 +1,9 @@
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd
-	cd ~
-	ls
-	pwd
-	mkdir
+	Cd		breytir curent directory
+	cd ~		fer í user‘s home directory
+	ls		listar út hluti í curent directory
+	pwd		sínir fult pathname í curent directory
+	mkdir		bír til nýtt directory mkdir þíðir „make directory“
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone

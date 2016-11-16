@@ -18,9 +18,12 @@
 	b) git diff --staged 		sínur mun á skjölum milli sem add hefur verið 								notað og síðasta skjal útgáfu
 	c) git diff commit1 commit2		sínur mun á tvem commit
 
-4. 	Hvað er útgáfustýring (e.version control)? 
+4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
+	Ef eitthvað fer úr skeð er altaf hægt að bakka um version
 
-5.	Hverjir eru helstu kostir við að nota GIT?
+5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Helst á jákværði breytingu því Ef eitthvað fer úr skeð er 
+	altaf hægt að bakka um version
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 

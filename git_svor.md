@@ -14,37 +14,9 @@
 	git checkout	gerir ákveðiðbranch að working directory
 
 3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
-
-4. 	Hvað er útgáfustýring (e.version control)? 
-
-5.	Hverjir eru helstu kostir við að nota GIT?
-
-6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
-
-7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
-
-8.	Hvenær er sniðugt að nota greinar (branches)? 
-1. Hvað gera eftirfarandi Linux skipanir?
-	cd
-	cd ~
-	ls
-	pwd
-	mkdir
-
-2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
-	git log
-	git status
-	git diff
-	git checkout
-
-3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
+	a) git diff 				sínur mun á skjölum sem ekki eru stiguð
+	b) git diff --staged 		sínur mun á skjölum milli sem add hefur verið 								notað og síðasta skjal útgáfu
+	c) git diff commit1 commit2		sínur mun á tvem commit
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 
